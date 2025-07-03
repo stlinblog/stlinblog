@@ -17,15 +17,15 @@ If you share the same passion for artificial intelligence and are interested in 
 🌱 我正在学习 [llm]。
 📫 联系我：[Email:stelin1123@qq.com] 
 
-### 🔧 我的技能栈
+### 🔧 TECH STACK
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=C++&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📊 我的 GitHub 统计
+### 📊 My GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-### 🚀 我的热门项目
+### 🚀 MY PROJECT
 - [car-project](https://github.com/stlinblog/car_project) - 本项目基于 PyTorch、Streamlit 和 matplotlib，实现了篮球投篮参数预测、命中率统计与三维轨迹可视化。用户可通过 Web 页面进行批量测试或单次测试，直观了解模型预测效果和投篮物理轨迹。
 - [blog](https://github.com/stlinblog/stlinblog.github.io) - 本项目为魔改博客，已部署，可访问stlinblog.github.io
