@@ -1,18 +1,21 @@
 ### Hi there 👋
 
 I'm Changlin.As a passionate graduate student majoring in computer science from China, I am deeply engaged in the research fields of contrastive learning, large language models, and multimodal research. My exploration of cutting-edge technologies never stops, driven by an insatiable curiosity to push the boundaries of what's possible.
-### 🔬 Research Interests
-#### Contrastive Learning
-I focus on developing innovative techniques to enhance the representation learning capabilities of neural networks. By leveraging contrastive learning objectives, I aim to improve the generalization and robustness of models across diverse tasks. I am particularly interested in applying contrastive learning to address challenges in data efficiency and domain adaptation, enabling models to learn effectively from limited labeled data.
-#### Large Language Models
-My strong interest in large language models has led me to explore their potential in natural language understanding and generation. I am actively researching techniques to optimize the training and inference processes of these models and exploring their applications in various fields, such as question answering, text summarization, and machine translation. Additionally, I pay close attention to the ethical and societal implications brought by large language models and am committed to promoting the development of responsible and trustworthy artificial intelligence systems.
-#### Multimodal Research
-I am enthusiastic about exploring how to effectively integrate information from multiple modalities, including text, images, and audio, to build more intelligent and versatile systems. Currently, the projects I'm involved in focus on multimodal representation learning, cross-modal alignment, and multimodal fusion techniques, with the goal of endowing machines with more human-like understanding and interaction abilities.
-### 🌐 Open Source and Community
-Beyond academic research, I am an active contributor to the open-source community. I firmly believe in the power of collaboration and knowledge sharing, and I am dedicated to making my research findings and code publicly available to drive the development of the field. Meanwhile, I am also actively advocating for diversity and inclusion in the field of artificial intelligence, speaking up for underrepresented groups in the technology industry.
-If you share the same passion for artificial intelligence and are interested in potential research collaborations or exchanges of ideas, feel free to reach out! Let's work together to shape the future of artificial intelligence.
+### 🔬 Research Interests  
+#### Contrastive Learning  
+Focus on advancing representation learning via novel contrastive techniques, aiming to boost model generalization and robustness. Key areas: data-efficient learning and domain adaptation for low-resource scenarios.  
+
+#### Large Language Models  
+Explore NLU/generation potentials of LLMs, researching training/inference optimization and applications in QA, summarization, MT, etc. Also address ethical/societal impacts for responsible AI development.  
+
+#### Multimodal Research  
+Investigate cross-modal integration (text/image/audio) through representation learning, alignment, and fusion, targeting human-like understanding in intelligent systems.  
 
 
+### 🌐 Open Source & Community  
+Active open-source contributor committed to sharing research/code for field advancement. Advocate for diversity and inclusion in AI, amplifying underrepresented voices in tech.  
+
+**Let’s connect if you share these AI passions—open to collaborations and idea exchanges!**
 🔭 我当前正在从事 [contrasitive learning] 学术研究。
 🌱 我正在学习 [llm]。
 📫 联系我：[Email:stelin1123@qq.com] 
