@@ -24,7 +24,7 @@ If you share the same passion for artificial intelligence and are interested in 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📊 My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stlinblog&show_icons=true&theme=dark)
 
 ### 🚀 MY PROJECT
 - [car-project](https://github.com/stlinblog/car_project) - 本项目基于 PyTorch、Streamlit 和 matplotlib，实现了篮球投篮参数预测、命中率统计与三维轨迹可视化。用户可通过 Web 页面进行批量测试或单次测试，直观了解模型预测效果和投篮物理轨迹。
