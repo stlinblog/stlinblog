@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Changlin.As a passionate graduate student majoring in computer science, I am deeply engaged in the research fields of contrastive learning, large language models, and multimodal research. My exploration of cutting-edge technologies never stops, driven by an insatiable curiosity to push the boundaries of what's possible.
+I'm Changlin.As a passionate graduate student majoring in computer science from China, I am deeply engaged in the research fields of contrastive learning, large language models, and multimodal research. My exploration of cutting-edge technologies never stops, driven by an insatiable curiosity to push the boundaries of what's possible.
 ### 🔬 Research Interests
 #### Contrastive Learning
 I focus on developing innovative techniques to enhance the representation learning capabilities of neural networks. By leveraging contrastive learning objectives, I aim to improve the generalization and robustness of models across diverse tasks. I am particularly interested in applying contrastive learning to address challenges in data efficiency and domain adaptation, enabling models to learn effectively from limited labeled data.
